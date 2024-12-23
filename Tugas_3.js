@@ -3,4 +3,5 @@ const array2 = [10, 12, 13, 14, 15];
 
 const similarities = array1.filter(element => array2.includes(element));
 
+
 console.log(similarities);
